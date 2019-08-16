@@ -1,0 +1,25 @@
+{
+  "name": "3dfont",
+  "version": "0.1.0",
+  "description": "css text shadow generator for building 3d-fonts or other effekts",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnhcc/3dfont.git"
+  },
+  "keywords": [
+    "css",
+    "textshadow",
+    "3d",
+    "font"
+  ],
+  "author": "Michael Hegenbarth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnhcc/3dfont/issues"
+  },
+  "homepage": "https://github.com/mnhcc/3dfont#readme"
+}
